@@ -1,9 +1,9 @@
 {
  "name": "flare",
  "children": [
-  {
-   "name": "Multimodal Interaction",
-   "children": [
+    {
+    "name": "Multimodal Interaction",
+        "children": [
     {
      "name": "Multimodal Interaction",
      "children": [
@@ -13,11 +13,11 @@
       
      ]
     }
-   ]
-  },
-  {
-   "name": "Visual Design",
-   "children": [
+                    ]
+    },
+    {
+    "name": "Visual Design",
+        "children": [
     {
      "name": "Visual Design Guideline",
      "children": [
@@ -25,10 +25,14 @@
       {"name": "UI Control", "value": 2047},
       {"name": "UI Module", "value": 1375}
      ]
+    }
+                    ]
     },
-    {"name": "Branding", 
+    {
+    "name": "Branding", 
         "children": [
-        {"name": "Operation Guideline", 
+        {
+        "name": "Operation Guideline", 
             "children": [
                 {"name": "Operation Template", "value": 1983},
                 {"name": "Homepage", "value": 2047},
@@ -52,10 +56,11 @@
                 {"name": "IP Model", "value": 1983}
                 ]
             }
-       ]
+                    ]
     
     },
-    {"name": "emotion", 
+    {
+    "name": "emotion", 
         "children": [
         {"name": "Voice Guideline", 
             "children": [
@@ -81,22 +86,21 @@
                 {"name": "IP Model Emotions", "value": 1983}
                 ]
             }
-       ]
+                    ]
     
     },
-    {"name": "Sound", 
+    {
+    "name": "Sound", 
         "children": [
         {"name": "Sound Guideline", 
             "children": [
                 {"name": "Sounds", "value": 1983},
                 {"name": "UI Sounds", "value": 1983}
                ]
-            }      
+        }      
         
-       ]
+                    ]
     
     }
    ]
   }
- ]
-}
