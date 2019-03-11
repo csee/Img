@@ -5,11 +5,11 @@
     "name": "Multimodal Interaction",
         "children": [
     {
-     "name": "Multimodal Interaction",
+     "name": "Multimodal Interaction Guideline",
      "children": [
-      {"name": "Template", "value": 3938},
-      {"name": "Control", "value": 3812},
-      {"name": "Module", "value": 6714}
+      {"name": "Template", "value": 24},
+      {"name": "Control", "value": 24},
+      {"name": "Module", "value": 24}
       
      ]
     }
@@ -21,9 +21,9 @@
     {
      "name": "Visual Design Guideline",
      "children": [
-      {"name": "UI Template", "value": 1983},
-      {"name": "UI Control", "value": 2047},
-      {"name": "UI Module", "value": 1375}
+      {"name": "UI Template", "value": 24},
+      {"name": "UI Control", "value": 24},
+      {"name": "UI Module", "value": 24}
      ]
     }
                     ]
@@ -34,26 +34,26 @@
         {
         "name": "Operation Guideline", 
             "children": [
-                {"name": "Operation Template", "value": 1983},
-                {"name": "Homepage", "value": 2047},
-                {"name": "Operation Visual Use Guide", "value": 1375}
+                {"name": "Operation Template", "value": 6},
+                {"name": "Homepage", "value": 6},
+                {"name": "Operation Visual Use Guide", "value": 6}
                ]
             },       
         {"name": "VI Guideline", 
             "children": [
-                {"name": "Docment Template", "value": 1983},
-                {"name": "Keynote Template", "value": 2047},
-                {"name": "Mail Template", "value": 1375}
+                {"name": "Docment Template", "value": 6},
+                {"name": "Keynote Template", "value": 6},
+                {"name": "Mail Template", "value": 6}
                 ]
             },
         {"name": "VI Co Guideline", 
             "children": [
-                {"name": "Co-op Sample", "value": 1983}
+                {"name": "Co-op Sample", "value": 18}
                 ]
             },
         {"name": "IP Guideline", 
             "children": [
-                {"name": "IP Model", "value": 1983}
+                {"name": "IP Model", "value": 18}
                 ]
             }
                     ]
@@ -64,26 +64,26 @@
         "children": [
         {"name": "Voice Guideline", 
             "children": [
-                {"name": "TTS", "value": 1983},
-                {"name": "Breathe", "value": 2047},
-                {"name": "Rhythm", "value": 1375}
+                {"name": "TTS", "value": 6},
+                {"name": "Breathe", "value": 6},
+                {"name": "Rhythm", "value": 6}
                ]
             },       
         {"name": "Dialog Guideline", 
             "children": [
-                {"name": "Dialogs", "value": 1983}
+                {"name": "Dialogs", "value": 18}
                 ]
             },
         {"name": "Copywriting Guideline", 
             "children": [
-                {"name": "Copywritings", "value": 1983},
-                {"name": "UI Text", "value": 1983}
+                {"name": "Copywritings", "value": 9},
+                {"name": "UI Text", "value": 9}
                 ]
             },
         {"name": "IP Guideline2", 
             "children": [
-                {"name": "IP Model Actions", "value": 1983},
-                {"name": "IP Model Emotions", "value": 1983}
+                {"name": "IP Model Actions", "value": 9},
+                {"name": "IP Model Emotions", "value": 9}
                 ]
             }
                     ]
@@ -94,8 +94,8 @@
         "children": [
         {"name": "Sound Guideline", 
             "children": [
-                {"name": "Sounds", "value": 1983},
-                {"name": "UI Sounds", "value": 1983}
+                {"name": "Sounds", "value": 36},
+                {"name": "UI Sounds", "value": 36}
                ]
         }      
         
