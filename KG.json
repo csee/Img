@@ -2,27 +2,27 @@
     "nodes": [
         {
             "id": "圆的方程",
-            "degree": 3
+            "degree": 9
         },
         {
             "id": "圆的位置",
-            "degree": 1
+            "degree": 9
         },
         {
             "id": "直线方程",
-            "degree": 2
+            "degree": 9
         },
         {
             "id": "直线位置关系",
-            "degree": 1
+            "degree": 9
         },
         {
             "id": "圆标准方程",
-            "degree": 3
+            "degree": 6
         },
         {
             "id": "圆一般方程",
-            "degree": 3
+            "degree": 6
         },
         {
             "id": "圆与圆的位置关系",
@@ -30,27 +30,27 @@
         },
         {
             "id": "直线与圆的位置关系",
-            "degree": 4
+            "degree": 6
         },
         {
             "id": "过定点的直线方程",
-            "degree": 2
+            "degree": 6
         },
         {
             "id": "两条直线平行",
-            "degree": 3
+            "degree": 6
         },
         {
             "id": "两条直线垂直",
-            "degree": 1
+            "degree": 6
         },
         {
             "id": "两点关于直线对称",
-            "degree": 1
+            "degree": 6
         },
         {
             "id": "以直线某点为圆心的圆的方程",
-            "degree": 6
+            "degree": 3
         },
         {
             "id": "直线与圆相切",
@@ -58,19 +58,19 @@
         },
         {
             "id": "圆上点到直线距离",
-            "degree": 6
+            "degree": 3
         },
         {
             "id": "直线与圆相交",
-            "degree": 9
+            "degree": 3
         },
         {
             "id": "求弦长",
-            "degree": 6
+            "degree": 2
         },
         {
             "id": "圆与圆相切",
-            "degree": 6
+            "degree": 2
         }
     ],
     "links": [
